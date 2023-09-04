@@ -10,7 +10,7 @@ Currently supports these operations:
  4. Division ``/`` *
  5. Modulo ``%``*
  6. Power ``^``
- 7. n-th Root ``r``  
+ 7. n-th Root ``r``\
  *Extras:
  8. Square Root ``sqrt``*
  9. Cube Root ``cbrt``*
