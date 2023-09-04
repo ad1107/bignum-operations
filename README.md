@@ -1,14 +1,21 @@
 # Introduction
-This is a demonstration of common math operations with large strings represent as integer.
+This is a demonstration of common math operations with large strings represented as integers.
 
 Float is not supported.
 
-Currently support these operations:
+Currently supports these operations:
  1. Addition ``+``
  2. Subtraction ``-``
  3. Multiplication ``*``
- 4. Division ``/`` (Integer result)
- 5. Modulo ``%``
+ 4. Division ``/`` *
+ 5. Modulo ``%``*
+ 6. Power ``^``
+ 7. n-th Root ``r``*
+ *Extras:
+ 8. Square Root ``sqrt``*
+ 9. Cube Root ``cbrt``*
+
+**Results as integers, ``b`` is limited to long long.*
 
 Note: for most cases in competitive programming, if the calculation is too high, consider using ``unsigned long long`` ``(10^19)``,
 or using more efficient algorithms.
