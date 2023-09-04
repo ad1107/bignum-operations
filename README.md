@@ -10,7 +10,7 @@ Currently supports these operations:
  4. Division ``/`` *
  5. Modulo ``%``*
  6. Power ``^``
- 7. n-th Root ``r``*
+ 7. n-th Root ``r``  
  *Extras:
  8. Square Root ``sqrt``*
  9. Cube Root ``cbrt``*
@@ -25,7 +25,7 @@ Only using these algorithms as a last resort.
 # Using the source code
 Download the entire source code as zip and open it with CMake and your C++ compiler configured.
 
-If you're planning to copy one or more operations, please read the source code carefully and copy the functions in ``toBignumString.h``.
+If you're planning to copy one or more operations, please read the source code carefully and copy the functions in appropriate header(s).
 
 # Credits
 User [ngatdo3003](https://oj.vnoi.info/user/ngatdo3003) from the [VNOI Community](https://oj.vnoi.info/).
